@@ -1,10 +1,8 @@
-# Project 2 - *Wordle*
+# *Wordle*
 
-Submitted by: **Brody Haar**
+Created by: **Brody Haar**
 
 **Worlde** is an app that lets a user guess words repeatedly
-
-Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -19,10 +17,6 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## App Walkthrough
 
